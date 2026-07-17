@@ -28,7 +28,7 @@ software → backend and audio software
 - **Backend & systems:** Spring Boot · Node.js · .NET · Laravel · REST APIs · concurrency & real-time · sockets · Linux · Bash · Docker · Nginx · WebSockets · HTTP
 - **Mobile & cross-platform:** Android (Jetpack Compose) · JavaFX
 - **Data:** PostgreSQL · MySQL · Oracle / PL·SQL
-- **Audio:** Music production · Sound design · Composition · Mixing & mastering · MIDI · JUCE · DSPark · VST3 / CLAP / AU · EBU R128
+- **Audio:** Music production · Sound design · Composition · Mixing & mastering · MIDI · JUCE · DSPark · VST3 / CLAP / AU · OSC
 - **Product & strategy:** Advertising & PR (BA) · Digital marketing · Product ownership
 
 ---
