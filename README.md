@@ -24,17 +24,15 @@ software → backend and audio software
 
 ### `> cat stack.txt`
 
-**Languages:** C++ · C · Java · C# · Kotlin · JavaScript · HTML · CSS · PHP · SQL
-**Backend & systems:** Spring Boot · Node.js · .NET · Laravel · REST APIs · concurrency & real-time · sockets (OSC/UDP) · Linux · Bash · Docker · Nginx
-**Mobile & cross-platform:** Android (Jetpack Compose) · JavaFX
-**Data:** PostgreSQL · MySQL · Oracle / PL·SQL
-**Audio:** Music production · Sound design · Composition · Mixing & mastering · MIDI · JUCE · DSPark · VST3 / CLAP / AU · EBU R128
-**Product & strategy:** Advertising & PR (BA) · Digital marketing · Product ownership
+- **Languages:** C++ · C · Java · C# · Kotlin · JavaScript · HTML · CSS · PHP · SQL
+- **Backend & systems:** Spring Boot · Node.js · .NET · Laravel · REST APIs · concurrency & real-time · sockets (OSC/UDP) · Linux · Bash · Docker · Nginx
+- **Mobile & cross-platform:** Android (Jetpack Compose) · JavaFX
+- **Data:** PostgreSQL · MySQL · Oracle / PL·SQL
+- **Audio:** Music production · Sound design · Composition · Mixing & mastering · MIDI · JUCE · DSPark · VST3 / CLAP / AU · EBU R128
+- **Product & strategy:** Advertising & PR (BA) · Digital marketing · Product ownership
 
 ---
 
 ### `> contact --open`
 
 🌐 [cristianmoresi.com](https://cristianmoresi.com) · 💼 [LinkedIn](https://www.linkedin.com/in/cristianmoresi/) · ✉️ dev@cristianmoresi.com
-
-<sub><i>"There is no spoon."</i></sub>
