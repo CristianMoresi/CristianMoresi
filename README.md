@@ -6,7 +6,7 @@
 audio    → music production, sound design, composition, arrangement,
            music direction, session guitar, mixing & mastering, FOH
 comms    → BA in Advertising & PR, marketing experience
-software → web development and audio software
+software → web development, audio and AI software
 ```
 
 ---
