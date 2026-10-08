@@ -1,38 +1,43 @@
+**English** · [Español](README.es.md)
+
 ### `> whoami`
 
-**Cristian Moresi** · Web Developer & Audio Software · Music Producer
+**Cristian Moresi**
+
+`[ Software Developer ]` `[ Music Production ]`
+
+**Audio software · Backend · AI & automation**
 
 ```text
-audio    → music production, sound design, composition, arrangement,
-           music direction, session guitar, mixing & mastering, FOH
-comms    → BA in Advertising & PR, marketing experience
-software → Web Development, Audio Software and AI Applications
+software → audio, native apps, backend, APIs & AI integration
+music    → production, mixing, mastering & live sound
+product  → own projects, UX & artistic/technical team coordination
 ```
 
 ---
 
 ### `> ls ~/projects`
 
-| Project | What it is |
-|---|---|
-| **[DSPark](https://github.com/CristianMoresi/DSPark)** | Header-only audio DSP framework in pure **C++20**, zero dependencies. One codebase for desktop, mobile, WebAssembly, embedded and VST3/CLAP/AU plugins. 90+ real-time processors, physically-modeled analog and EBU R128 metering. |
-| **StyleShift AI** | An AI music project: I produce the music and build the platform behind it. **Next.js** site and **Node** REST API on **PostgreSQL**, self-hosted on Linux/Docker. Peaks of **200k monthly listeners**. |
-| **[QuickMaster](https://github.com/CristianMoresi/QuickMaster)** | Intelligent **offline** audio mastering: analyses the whole track, then EQs, compresses, saturates and true-peak limits. **Java / JavaFX** desktop app. |
-| **[M32 Live Console Tool](https://github.com/CristianMoresi/M32LiveConsoleTool)** | Live mixing automation for the Midas M32 / Behringer X32 over **OSC**: auto-leveling, anti-clipping and tempo-synced delays. **C# / .NET**. |
+| Project | What I've built |
+| :--- | :--- |
+| **[DSPark](https://github.com/CristianMoresi/DSPark)** | **My open-source audio framework in C++**, from the DSP engine to the infrastructure for applications, effects and instruments. Real-time and offline processing: synthesis, analog circuit modelling, effects and musical analysis. A **header-only core with no external dependencies**, plus VST3, CLAP and Audio Unit adapters with automation, MIDI and state handling. Documented and tested across platforms; **its Java port powers QuickMaster**. [Documentation ↗](https://cristianmoresi.github.io/DSPark/) |
+| **[StyleShift AI](https://styleshiftai.studio)** | **A music project and its software platform, created and managed end to end.** AI-assisted reinterpretations and original music, backed by a **Node.js / PostgreSQL backend** with a REST API, authentication, webhooks and Spotify/YouTube integrations. I handle music production, workflow automation and distribution. The **music project reached peaks of 200,000 monthly listeners** on streaming platforms. |
+| **[QuickMaster](https://github.com/CristianMoresi/QuickMaster)** | **A desktop mastering app that analyses the entire song before processing**, so it can anticipate peaks, balance passages and calculate compression, levelling and clipping from the audio. Result-oriented controls keep the producer in creative control. Built on **my Java port of DSPark**, with EQ, stereo processing, true-peak limiting and batch export. Portable on **Windows, macOS and Linux**. |
+| **[M32 Live Console Tool](https://github.com/CristianMoresi/M32LiveConsoleTool)** | **Live mixing automation that works alongside the engineer** on Midas M32 and Behringer X32 consoles. Holds channels and buses at a target level, reduces gain when clipping occurs and syncs delays to the tempo, **yielding to manual fader moves**. Built in **C# / .NET**, with OSC/UDP communication, gradual adjustments, silence detection and a simulator for testing without the console. |
 
 ---
 
 ### `> cat stack.txt`
 
-- **Languages:** C++ · C · Java · C# · Kotlin · JavaScript · TypeScript · HTML · CSS · PHP · SQL
-- **Backend & systems:** Spring Boot · Node.js · .NET · Laravel · REST APIs · concurrency & real-time · sockets · Linux · Bash · Docker · Nginx · WebSockets · HTTP
-- **Mobile & cross-platform:** Android (Jetpack Compose) · JavaFX
-- **Data:** PostgreSQL · MySQL · Oracle / PL·SQL
-- **Audio:** Music production · Sound design · Composition · Mixing & mastering · MIDI · JUCE · DSPark · VST3 / CLAP / AU · OSC
-- **Product & strategy:** Advertising & PR (BA) · Digital marketing · Product ownership
+- **Languages:** C++ · Java · C# · JavaScript · TypeScript · PHP · SQL
+- **Audio & native applications:** DSP · JUCE · .NET · VST3 / CLAP / Audio Unit · MIDI · OSC/UDP
+- **Backend & APIs:** Node.js · Express · Symfony · REST · Webhooks
+- **Databases:** PostgreSQL · MySQL · Oracle · SQLite · MongoDB
+- **Systems & tools:** Linux · Docker · Nginx · Bash · Git · GitHub Actions · CMake
+- **AI & automation:** MCP · Agents · Tool integration
 
 ---
 
 ### `> contact --open`
 
-🌐 [cristianmoresi.com](https://cristianmoresi.com) · 💼 [LinkedIn](https://www.linkedin.com/in/cristianmoresi/) · ✉️ dev@cristianmoresi.com
+[cristianmoresi.com](https://cristianmoresi.com/?lang=en) · [LinkedIn](https://www.linkedin.com/in/cristianmoresi/) · [dev@cristianmoresi.com](mailto:dev@cristianmoresi.com)
