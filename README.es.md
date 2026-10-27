@@ -6,7 +6,7 @@
 
 `[ Desarrollador de software ]` `[ Producción musical ]`
 
-**Software de audio · Backend · IA y automatización**
+**Software de audio · Web · IA y automatización**
 
 ```text
 software → audio, aplicaciones nativas, backend, APIs e integración de IA
