@@ -6,7 +6,7 @@
 
 `[ Software Developer ]` `[ Music Production ]`
 
-**Audio software · Web · AI & automation**
+**Full Stack · Audio · AI & automation**
 
 ```text
 software → audio, native apps, backend, APIs & AI integration
